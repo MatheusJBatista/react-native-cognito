@@ -1,0 +1,12 @@
+{
+  "name": "POCCognito",
+  "displayName": "POCCognito",
+  "expo": {
+    "name": "POCCognito",
+    "slug": "POCCognito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
